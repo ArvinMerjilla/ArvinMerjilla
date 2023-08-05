@@ -1,13 +1,9 @@
 #Arvin Merjilla
-
+<hr height="2px"/>
 **Electrical Engineer and Developer**
 
 I am an aspiring Web Developer.
-<hr height="2px"/>
-<a href="https://www.github.com/arvinmerjilla" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/arvinmerjilla?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/vin_merjilla" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/vin_merjilla?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
+<hr height="1px"/>
 
 ### Skills
 <p align="left">
