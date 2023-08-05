@@ -43,7 +43,5 @@ src="https://img.shields.io/twitter/follow/vin_merjilla?logo=twitter&style=for-t
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
 [![](https://visitcount.itsvg.in/api?id=ArvinMerjilla&icon=0&color=0)](https://visitcount.itsvg.in)
 
