@@ -1,8 +1,7 @@
-<h1>Arvin Merjilla</h1>
+#Arvin Merjilla
 
 **Electrical Engineer and Developer**
 
-<hr height="2px"/>
 I am an aspiring Web Developer.
 
 - 🌍  I'm based in Philippines
