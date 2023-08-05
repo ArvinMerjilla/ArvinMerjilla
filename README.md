@@ -9,7 +9,7 @@ I am Arvin P. Merjilla an aspiring software engineer.
 * 🌍  I'm based in Philippines
 * ✉️  You can contact me at [amerjilla@gmail.com](mailto:amerjilla@gmail.com)
 * 🧠  I'm learning Frontend Web development
-======================================================================================================================================
+<hr height="2px"/>
 <a href="https://www.github.com/arvinmerjilla" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/arvinmerjilla?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/vin_merjilla" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/vin_merjilla?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
