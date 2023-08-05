@@ -46,10 +46,6 @@ src="https://img.shields.io/twitter/follow/vin_merjilla?logo=twitter&style=for-t
 
 <div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ArvinMerjilla&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ArvinMerjilla&theme=react&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ArvinMerjilla&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
