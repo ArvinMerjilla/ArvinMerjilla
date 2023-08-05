@@ -3,6 +3,10 @@
 **Electrical Engineer and Developer**
 
 I am an aspiring Web Developer.
+
+* 🌍  I'm based in Philippines
+* ✉️  You can contact me at [amerjilla@gmail.com](mailto:amerjilla@gmail.com)
+* 🧠  Currently I'm learning Frontend Web development
 <hr height="1px"/>
 
 ### Skills
